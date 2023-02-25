@@ -36,5 +36,8 @@
         "pinia-plugin-persistedstate": "^3.0.2",
         "vue": "^3.2.45",
         "vue-router": "^4.1.6"
+    },
+    "engines": {
+        "node": "16.13.0"
     }
 }
